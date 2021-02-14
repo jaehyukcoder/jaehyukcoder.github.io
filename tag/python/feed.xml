@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://jaehyukcoder.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://jaehyukcoder.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-02-14T22:05:30+09:00</updated>
+  <id>https://jaehyukcoder.github.io/tag/python/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Programming Meister | </title>
+  
+
+  
+    <subtitle>프로그래밍 연습 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Python test - Python 기본</title>
+      <link href="https://jaehyukcoder.github.io/python-basic" rel="alternate" type="text/html" title="Python test - Python 기본" />
+      <published>2020-02-14T04:00:00+09:00</published>
+      <updated>2020-02-14T04:00:00+09:00</updated>
+      <id>https://jaehyukcoder.github.io/python-basic</id>
+      <content type="html" xml:base="https://jaehyukcoder.github.io/python-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python Practice &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python test - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python test - Python 기본2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;python menu test&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>jaehyukcoder</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python Practice Python test - Python 기본 Python test - Python 기본2</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Python test - Python 기본2</title>
+      <link href="https://jaehyukcoder.github.io/python-control-statement" rel="alternate" type="text/html" title="Python test - Python 기본2" />
+      <published>2020-02-13T04:00:00+09:00</published>
+      <updated>2020-02-13T04:00:00+09:00</updated>
+      <id>https://jaehyukcoder.github.io/python-control-statement</id>
+      <content type="html" xml:base="https://jaehyukcoder.github.io/python-control-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python Practice &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python test - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python test - Python 기본2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;python menu test 두번째 파이썬 포스트 제작!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>jaehyukcoder</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python Practice Python test - Python 기본 Python test - Python 기본2 python menu test 두번째 파이썬 포스트 제작!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

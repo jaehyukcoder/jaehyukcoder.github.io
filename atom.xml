@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>프로그래밍 연습 블로그</description>
+    <link>
+    https://jaehyukcoder.github.io</link>
+    
+      
+      <item>
+        <title>Jekyll test - Jekyll menu</title>
+        
+          <description>&lt;p&gt;python menu test&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 15 Feb 2020 04:00:00 +0900</pubDate>
+        <link>
+        https://jaehyukcoder.github.io/jekyll-basic</link>
+        <guid isPermaLink="true">https://jaehyukcoder.github.io/jekyll-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python test - Python 기본</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python Practice &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python test - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python test - Python 기본2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Fri, 14 Feb 2020 04:00:00 +0900</pubDate>
+        <link>
+        https://jaehyukcoder.github.io/python-basic</link>
+        <guid isPermaLink="true">https://jaehyukcoder.github.io/python-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python test - Python 기본2</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python Practice &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python test - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python test - Python 기본2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;python menu test 두번째 파이썬 포스트 제작!&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 13 Feb 2020 04:00:00 +0900</pubDate>
+        <link>
+        https://jaehyukcoder.github.io/python-control-statement</link>
+        <guid isPermaLink="true">https://jaehyukcoder.github.io/python-control-statement</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <link>
+        https://jaehyukcoder.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://jaehyukcoder.github.io/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
